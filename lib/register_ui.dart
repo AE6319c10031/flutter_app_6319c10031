@@ -164,7 +164,7 @@ class _Register_UIState extends State<Register_UI> {
                         ),
                         GestureDetector(
                           child: Text(
-                            ' Login here',
+                            ' Login Here',
                             textAlign: TextAlign.right,
                             style: TextStyle(
                               color: Colors.blue,
