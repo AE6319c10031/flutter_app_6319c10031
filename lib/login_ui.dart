@@ -91,7 +91,7 @@ class _LoginUIState extends State<LoginUI> {
               GestureDetector(
                 child: Text(
                   textAlign: TextAlign.right,
-                  'Forgot Password?',
+                  'Forget Password?',
                   style: TextStyle(
                     fontWeight: FontWeight.bold,
                     fontSize: 15.0,
